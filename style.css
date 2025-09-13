@@ -1,0 +1,15 @@
+#div1{
+    width: 350px;
+}
+#div1-img{
+    width: 500px;
+    position: relative;
+    
+}
+#map{
+    width: 100%;
+    height: auto;
+}
+.btn-new{
+    background-color: rgb(0, 200, 255);
+}
